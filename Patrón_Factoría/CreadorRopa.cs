@@ -7,7 +7,7 @@ namespace Patrón_Factoría
     class CreadorRopa
     {
         public const string Ropa_Dormirr = "Ropa para dormir";
-        public const string TrajedeBaño0 = "Ropa para bañarse";
+        public const string TrajedeBañoo = "Ropa para bañarse";
 
         public static Ropa CrearRopa(string tipo) {
 
@@ -15,7 +15,7 @@ namespace Patrón_Factoría
             {
                 case Ropa_Dormirr:
                     return new Ropa_Dormir();
-                case TrajedeBaño0:
+                case TrajedeBañoo:
                     return new TrajedeBaño();
                 default: return null;
             }

@@ -38,7 +38,7 @@ namespace Patrón_Factoría
                 else if (select_opcion == "2")
                 {
                     Console.Clear();
-                    Ropa TipoDeRopa1 = CreadorRopa.CrearRopa(CreadorRopa.TrajedeBaño0);
+                    Ropa TipoDeRopa1 = CreadorRopa.CrearRopa(CreadorRopa.TrajedeBañoo);
 
                     Console.WriteLine("Elija el material");
                     Console.WriteLine("------------------------");
