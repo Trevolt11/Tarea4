@@ -24,3 +24,16 @@ C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\Patrón_Factoría\obj\D
 C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.dll
 C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.pdb
 C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.genruntimeconfig.cache
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.AssemblyInfoInputs.cache
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.AssemblyInfo.cs
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.dll
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.pdb
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\bin\Debug\netcoreapp3.1\Patrón_Factoría.exe
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\bin\Debug\netcoreapp3.1\Patrón_Factoría.deps.json
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\bin\Debug\netcoreapp3.1\Patrón_Factoría.runtimeconfig.json
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\bin\Debug\netcoreapp3.1\Patrón_Factoría.runtimeconfig.dev.json
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\bin\Debug\netcoreapp3.1\Patrón_Factoría.dll
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\bin\Debug\netcoreapp3.1\Patrón_Factoría.pdb
+C:\Users\Robert\Desktop\PatronFactoria\Patrón_Factoría\obj\Debug\netcoreapp3.1\Patrón_Factoría.genruntimeconfig.cache

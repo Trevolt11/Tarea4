@@ -6,8 +6,8 @@ namespace Patrón_Factoría
 {
     class CreadorRopa
     {
-        public const string Ropa_Dormirr = "Ropa para dormir";
-        public const string TrajedeBañoo = "Ropa para bañarse";
+        public const string Ropa_Dormirr = "a";
+        public const string TrajedeBañoo = "b";
 
         public static Ropa CrearRopa(string tipo) {
 

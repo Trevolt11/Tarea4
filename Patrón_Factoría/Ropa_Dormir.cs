@@ -7,6 +7,7 @@ namespace Patrón_Factoría
     class Ropa_Dormir : Ropa
     {
         string material;
+
         public override string Carateristicas()
         {
             return "Suave y Liviana";
