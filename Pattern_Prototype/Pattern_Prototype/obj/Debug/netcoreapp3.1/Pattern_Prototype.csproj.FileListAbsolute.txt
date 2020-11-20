@@ -1,0 +1,13 @@
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\bin\Debug\netcoreapp3.1\Pattern_Prototype.exe
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\bin\Debug\netcoreapp3.1\Pattern_Prototype.deps.json
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\bin\Debug\netcoreapp3.1\Pattern_Prototype.runtimeconfig.json
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\bin\Debug\netcoreapp3.1\Pattern_Prototype.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\bin\Debug\netcoreapp3.1\Pattern_Prototype.dll
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\bin\Debug\netcoreapp3.1\Pattern_Prototype.pdb
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\obj\Debug\netcoreapp3.1\Pattern_Prototype.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\obj\Debug\netcoreapp3.1\Pattern_Prototype.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\obj\Debug\netcoreapp3.1\Pattern_Prototype.AssemblyInfo.cs
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\obj\Debug\netcoreapp3.1\Pattern_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\obj\Debug\netcoreapp3.1\Pattern_Prototype.dll
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\obj\Debug\netcoreapp3.1\Pattern_Prototype.pdb
+C:\Users\Robert\source\repos\Pattern_Prototype\Pattern_Prototype\obj\Debug\netcoreapp3.1\Pattern_Prototype.genruntimeconfig.cache
