@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robert\\source\\repos\\Sistemas_numericos\\Sistemas_numericos\\Sistemas_numericos.csproj": {}
+    "C:\\Users\\Robert\\Desktop\\PatronFactoria\\zEste es otro patron factoria\\Sistemas_numericos\\Sistemas_numericos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robert\\source\\repos\\Sistemas_numericos\\Sistemas_numericos\\Sistemas_numericos.csproj": {
+    "C:\\Users\\Robert\\Desktop\\PatronFactoria\\zEste es otro patron factoria\\Sistemas_numericos\\Sistemas_numericos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\Sistemas_numericos\\Sistemas_numericos\\Sistemas_numericos.csproj",
+        "projectUniqueName": "C:\\Users\\Robert\\Desktop\\PatronFactoria\\zEste es otro patron factoria\\Sistemas_numericos\\Sistemas_numericos.csproj",
         "projectName": "Sistemas_numericos",
-        "projectPath": "C:\\Users\\Robert\\source\\repos\\Sistemas_numericos\\Sistemas_numericos\\Sistemas_numericos.csproj",
+        "projectPath": "C:\\Users\\Robert\\Desktop\\PatronFactoria\\zEste es otro patron factoria\\Sistemas_numericos\\Sistemas_numericos.csproj",
         "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert\\source\\repos\\Sistemas_numericos\\Sistemas_numericos\\obj\\",
+        "outputPath": "C:\\Users\\Robert\\Desktop\\PatronFactoria\\zEste es otro patron factoria\\Sistemas_numericos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
