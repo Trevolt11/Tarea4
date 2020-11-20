@@ -19,10 +19,7 @@ namespace Patrón_Factoría
                     return new TrajedeBaño();
                 default: return null;
             }
-
-            
         }
-
 
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\obj\Debug\netcoreapp3.1\Sistemas_numericos.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\obj\Debug\netcoreapp3.1\Sistemas_numericos.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\obj\Debug\netcoreapp3.1\Sistemas_numericos.AssemblyInfo.cs
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\obj\Debug\netcoreapp3.1\Sistemas_numericos.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\bin\Debug\netcoreapp3.1\Sistemas_numericos.exe
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\bin\Debug\netcoreapp3.1\Sistemas_numericos.deps.json
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\bin\Debug\netcoreapp3.1\Sistemas_numericos.runtimeconfig.json
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\bin\Debug\netcoreapp3.1\Sistemas_numericos.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\bin\Debug\netcoreapp3.1\Sistemas_numericos.dll
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\bin\Debug\netcoreapp3.1\Sistemas_numericos.pdb
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\obj\Debug\netcoreapp3.1\Sistemas_numericos.dll
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\obj\Debug\netcoreapp3.1\Sistemas_numericos.pdb
+C:\Users\Robert\source\repos\Sistemas_numericos\Sistemas_numericos\obj\Debug\netcoreapp3.1\Sistemas_numericos.genruntimeconfig.cache
